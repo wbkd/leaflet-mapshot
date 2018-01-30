@@ -1,0 +1,5 @@
+{
+  "center": [52.52, 13.4],
+  "zoom": 10,
+  "tileLayerUrl": "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_nolabels/{z}/{x}/{y}.png"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "geojson-image-creator",
+  "version": "1.0.0",
+  "description": "A Node.js script for automatically creating screenshots from Leaflet maps with Geojson layers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "moklick@webkid.io",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.0.0"
+  }
+}
