@@ -1,6 +1,6 @@
 # Leaflet Mapshot
 
-A script for generating automated screenshots of a local Lealfet map. 
+A script for generating automated screenshots of a local Leaflet map.
 
 ## How does it work?
 
