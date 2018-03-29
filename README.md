@@ -1,6 +1,6 @@
 # Leaflet Mapshot
 
-A script for generating automated screenshots of a local Leaflet map.
+A script for generating automated screenshots of a local Leaflet map. We used it to create the video in this article https://interaktiv.morgenpost.de/mauerzeichnen-auswertung/.
 
 ## How does it work?
 
